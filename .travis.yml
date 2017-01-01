@@ -1,0 +1,5 @@
+language: csharp
+solution: Droid_Weather.sln
+mono: latest
+notifications : 
+   email:false
